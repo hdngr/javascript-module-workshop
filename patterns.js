@@ -5,11 +5,11 @@ var awesomeNewModule = (function(){
   };
   
   exports.helloMars = function() {
-    console.log("Hello Mars!");
+    console.log("Hello Kakapuu!");
   };
   
   exports.goodbye = function() {
-    console.log("Goodbye!");
+    console.log("Happydbye!");
   };
   
   return exports
